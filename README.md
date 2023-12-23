@@ -1,2 +1,3 @@
 # AdventOfCode2021
-Advent of Code 2021 where I learn Kotlin
+
+Moved to https://github.com/ccouzens/advent-of-code/tree/main/kotlin/2021
